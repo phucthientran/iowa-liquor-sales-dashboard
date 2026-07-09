@@ -202,29 +202,6 @@ Sazerac led bottle volume sales.
 Business Trend
 Sales and order volume peaked during May 2024.
 June 2024 showed a decline across key KPIs.
-📁 Project Structure
-Iowa-Liquor-Sales-Analytics
-│
-├── README.md
-│
-├── sql
-│   ├── 01_data_cleaning.sql
-│   ├── 02_dim_store.sql
-│   ├── 03_dim_vendor.sql
-│   ├── 04_dim_category.sql
-│   ├── 05_dim_item.sql
-│   ├── 06_fact_sales.sql
-│
-├── powerbi
-│   └── Iowa_Liquor_Sales.pbix
-│
-├── images
-│   ├── star_schema.png
-│   ├── sales_dashboard.png
-│   ├── orders_dashboard.png
-│   └── bottles_dashboard.png
-│
-└── docs
 🚀 Skills Demonstrated
 Data Engineering
 SQL Data Cleaning
